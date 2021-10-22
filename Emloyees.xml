@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<Employees>
+	<Employee gender="male" born="23-02-1982" married="yes">
+		<name type="full_name" primary="primary"> Bartłomiej Grzegorz Głowacki </name>
+		<name type="first_name">Bartłomiej</name>
+		<name type="surname">Głowacki</name>
+		<picture type ="url"><a href="https://hrpolska.pl/uploads/zadbać_1.png">Picture of employee</a></picture>
+		<email type="email">bglowacki@op.pl</email>
+		<phone type="phone">887 254 281</phone>
+		<reward type="reward">2300</reward>
+	</Employee>
+
+	<Employee gender="female" born="05-05-1990" married="no">
+		<name type="full_name" primary="primary"> Katarzyna Zofia Babiarz </name>
+		<name type="first_name">Katarzyna</name>
+		<name type="surname">Babiarz</name>
+		<picture type="url"><a href="https://chemnaft.com/wp-content/uploads/2014/09/pracownik.jpg">Picture of employee</a></picture>
+		<email type="email">kbabiarz@op.pl</email>
+		<phone type="phone">572 624 122</phone>
+		<reward type="reward">3150</reward>
+	</Employee>
+
+	<Employee gender="male" born="23-12-1956" married="yes">
+		<name type="full_name" primary="primary"> Krzysztof Malarz </name>
+		<name type="first_name">Krzysztof</name>
+		<name type="surname">Malarz</name>
+		<picture type="url"><a href="https://www.aplikuj.pl/userfiles/porady/933/146830711816669300.jpg">Picture of employee</a></picture>
+		<email type="email">malarzyk@wp.pl</email>
+		<phone type="phone">882 641 427</phone>
+		<reward type="reward">2000</reward>
+	</Employee>
+
+	<Employee gender="female" born="01-11-1975" married="yes">
+		<name type="full_name" primary="primary"> Wiktoria Kornelia Betlej </name>
+		<name type="first_name">Wiktoria</name>
+		<name type="surname">Betlej</name>
+		<picture type="url"><a href="https://bi.im-g.pl/im/c7/53/17/z24460487Q,Pracownicy-w-biurze.jpg">Picture of employee</a></picture>
+		<email type="email">betlejj@onet.pl</email>
+		<phone type="phone">544 412 427</phone>
+		<reward type="reward">5600</reward>
+	</Employee>
+
+	<Employee gender="female" born="11-01-1986" married="yes">
+		<name type="full_name" primary="primary"> Weronika Edyta Pruchniak</name>
+		<name type="first_name">Weronika</name>
+		<name type="surname">Pruchniak</name>
+		<picture type="url"><a href="https://www.eden.pl/sites/default/files/styles/wng_blogs_full/public/website_ng/content/blog/14kordw.-onboarding-czyli-jak-wprowadzac-nowych-pracownikow-w-dzialanie-firmy_0.jpg?itok=mbc8OGBK">Picture of employee</a></picture>
+		<email type="email">weronikapruch@wp.pl</email>
+		<phone type="phone">658 716 281</phone>
+		<reward type="reward">4200</reward>
+	</Employee>
+
+	<Employee gender="male" born="13-06-1973" married="yes">
+		<name type="full_name" primary="primary"> Krzysztof Maciej Burak </name>
+		<name type="first_name">Krzysztof</name>
+		<name type="surname">Burak</name>
+		<picture type="url"><a href="https://www.prawo.pl/gfx/prawopl/_thumbs/pl/wkdokumenty/000/353/581/1/krzysztof_wisniak,oX6D62aapFTLo7bXW5mZ.jpg.webp">Picture of employee</a></picture>
+		<email type="email">buraczek@op.pl</email>
+		<phone type="phone">882 261 826</phone>
+		<reward type="reward">3100</reward>
+	</Employee>
+
+	<Employee gender="male" born="31-07-1965" married="yes">
+		<name type="full_name" primary="primary"> Marcin Daniel Pałąk </name>
+		<name type="first_name">Marcin</name>
+		<name type="surname">Pałąk</name>
+		<picture type="url"><a href="https://bhpodpodszewki.pl/wp-content/uploads/2019/08/Kary-dla-pracowników-za-nieprzestrzeganie-przepisów-BHP.jpg">Picture of employee</a></picture>
+		<email type="email">palaknab@wp.pl</email>
+		<phone type="phone">phone>881 826 512</phone>
+		<reward type="reward">6500</reward>
+	</Employee>
+
+	<Employee gender="male" born="12-12-1989" married="no">
+		<name type="full_name" primary="primary"> Michał Łukasz Świerzb </name>
+		<name type="first_name">Michał</name>
+		<name type="surname">Świerzb</name>
+		<picture type="url"><a href="https://inwork.pl/file/2020/11/Projekt-bez-tytułu-5-scaled.jpg">Picture of employee</a></picture>
+		<email type="email">swierzbm@o2.pl</email>
+		<phone type="phone">885 551 836</phone>
+		<reward type="reward">4560</reward>
+	</Employee>
+
+	<Employee gender="female" born="06-06-1987" married="yes">
+		<name type="full_name" primary="primary"> Karolina Maria Wiśniewska </name>
+		<name type="first_name">Karolina</name>
+		<name type="surname">Wiśniewska</name>
+		<picture type="url"><a href="https://s-trojmiasto.pl/zdj/c/n/9/2314/3000x0/2314929__c_15_284_4593_2857.jpg">Picture of employee</a></picture>
+		<email type="email">bgkwisniewska@onet.pl</email>
+		<phone type="phone">512 462 428</phone>
+		<reward type="reward">3500</reward>
+	</Employee>
+
+	<Employee gender="male" born="13-03-1969" married="yes">
+		<name type="full_name" primary="primary"> Szymon Jakub Bąk </name>
+		<name type="first_name">Szymon</name>
+		<name type="surname">Bąk</name>
+		<picture type="url"><a href="https://hotelmagellan.pl/media/k2/items/cache/0692a4e584defe6544ca2abbf7dd2502_L.jpg">Picture of employee</a></picture>
+		<email type="email">szbak@wp.pl</email>
+		<phone type="phone">512 462 715</phone>
+		<reward type="reward">3300</reward>
+	</Employee>
+
+	
+</Employees>
+
+
